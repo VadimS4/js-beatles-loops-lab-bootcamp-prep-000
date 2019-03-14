@@ -19,7 +19,7 @@ function johnLennonFacts(){
   return newFacts;
 }
 
-function iLoveTheBeatles(n){
+function iLoveTheBeatles(num){
   
 }
 

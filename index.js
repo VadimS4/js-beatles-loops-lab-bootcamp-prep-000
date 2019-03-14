@@ -8,4 +8,8 @@ function theBeatlesPlay(musicians, instruments){
 return musicArray;
 }
 
-function johnLennonFacts()
+function johnLennonFacts(){
+  
+  
+  
+}
